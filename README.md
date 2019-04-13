@@ -1,6 +1,5 @@
  <h1>Hello-World-Smart-Contract</h1>
 <h2>Building a HelloWorld smart contract in solidity and truffle.</h2>
-<hr>
     <h2>Process:</h2>
     <ol>
         <li>
