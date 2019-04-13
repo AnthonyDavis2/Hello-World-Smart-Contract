@@ -96,4 +96,4 @@
             </pre>
         </li>
     </ol>
-    <center><h6>By: Anthony Davis</h6></center>
+    <h6>By: Anthony Davis</h6>
